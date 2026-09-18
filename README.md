@@ -1,3 +1,5 @@
+> **IMPORTANT NOTE**: this project has [moved to Codeberg](https://codeberg.org/harisont/lucid).
+
 # lucid
 A modern Beamer theme you can use without installing dozens of CTAN packages.
 
